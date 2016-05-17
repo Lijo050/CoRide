@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "438328281955",
+    "project_id": "coride-1306"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438328281955:android:3e5413131c996419",
+        "android_client_info": {
+          "package_name": "com.example.devesh.Coride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwnu3776JyjFQnJIphojs1dEFzmb5OhGw"
+
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

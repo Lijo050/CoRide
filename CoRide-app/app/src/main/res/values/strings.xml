@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">CoRide</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_maps">Direct</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in"> Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="name">Name</string>
+    <string name="mobileno">Mobile Number</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="address">Address</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="any">Any</string>
+    <string name="lnumber">Driving License no</string>
+    <string name="pnumber">PAN Number</string>
+    <string name="vnumber">Vehicle Number</string>
+    <string name="mnumber">Model</string>
+    <string name="capacity">Capacity</string>
+
+
+    <string name="title_activity_driver_registration">DriverRegistration</string>
+    <string name="title_activity_citycabs">citycabs</string>
+    <string name="title_activity_sign_up">SignUp</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Android Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Already registered.</string>
+    <string name="gcm_registered">GCM: Successfully registered.</string>
+    <string name="gcm_unregistered">GCM: Successfully unregistered.</string>
+    <string name="gcm_message">GCM: Got message!</string>
+    <string name="gcm_error">GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">GCM: deleted %1$d pending messages!</string>
+    <string name="server_registered">Android device added.</string>
+    <string name="server_unregistered">Android device removed.</string>
+    <string name="server_unregister_error">Could not unregister Android device on App Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+
+</resources>
+
