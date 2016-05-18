@@ -1,4 +1,4 @@
-## CoRide - Ride sharing app
+# CoRide - Ride sharing app
 ==========================================================
 
 ## Installation 
